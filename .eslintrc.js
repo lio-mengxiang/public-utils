@@ -1,15 +1,3 @@
-/**
- * The npm packages involved are
- *  eslint
- *  "eslint": "8.57.0", "eslint-plugin-import": "2.31.0",
- *  typescript
- *  "typescript": "5.6.2", "@typescript-eslint/eslint-plugin": "8.8.1", "@typescript-eslint/parser": "8.8.1", "eslint-import-resolver-typescript": "3.6.3",
- *  prettier
- *  "prettier": "3.3.3", "eslint-config-prettier": "9.1.0", "eslint-plugin-prettier": "5.2.1",
- *  react
- *  "eslint-config-react": "1.1.7", "eslint-config-react-hooks": "1.0.0", "eslint-plugin-react": "7.37.1", "eslint-plugin-react-hooks": "4.6.2",
- *
- */
 module.exports = {
   root: true,
   /**
