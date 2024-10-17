@@ -14,7 +14,7 @@
     "test": "pnpm -r --if-present test",
     "test:unit": "pnpm -r --if-present test:unit",
     "test:integration": "pnpm -r --if-present test:integration",
-    "commit": "",
+    "commit": "git add -A && git-cz",
     "lint-staged": "lint-staged",
     "prepare": "husky"
   },
@@ -55,5 +55,10 @@
     "*.{md,json}": [
       "prettier -w"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "@commitlint/cz-commitlint"
+    }
   }
 }

@@ -1,7 +1,3 @@
-/**
- * The npm packages involved are
- * "prettier": "3.3.3"
- */
 module.exports = {
   /**
    * @zh 行尾需要有分号
