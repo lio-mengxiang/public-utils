@@ -1,0 +1,1 @@
+https://medium.com/@abpeter14/how-to-install-commitlint-husky-2024-f1157f14006f

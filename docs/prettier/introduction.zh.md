@@ -124,7 +124,7 @@ module.exports = {
 
 在 vscode 中，如果修改了 .prettierrc.js 的配置选项后，发现 eslint 和 prettier 冲突了，需要重启 vscode，以免使用缓存，不能及时更新配置。
 
-## vscode 配置保存时格式化（
+## vscode 配置保存时格式化
 
 - 首先，在 vscode 商店输入 prettier，然后下载 prettier 插件, 接着，你可以通过按 `Ctrl + Shift + P`（或 macOS 上的 `Cmd + Shift + P`）打开命令面板通过输入 prettier 字符，来验证是否 prettier 命令可用。
 ![alt text](./images/vscode-prettier.png)
